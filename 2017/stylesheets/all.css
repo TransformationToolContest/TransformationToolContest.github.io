@@ -4069,11 +4069,11 @@ input[type="button"].btn-block {
 
 /* line 493, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse {
-  background-color: #7F6A00;
-  border-color: #4c3f00; }
+  background-color: #6F5780;
+  border-color: #554262; }
   /* line 497, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-brand {
-    color: #FFF0AD; }
+    color: #F9F7ED; }
     /* line 499, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
       color: #fff;
@@ -4083,7 +4083,7 @@ input[type="button"].btn-block {
     color: #999999; }
   /* line 511, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > li > a {
-    color: #FFF0AD; }
+    color: #F9F7ED; }
     /* line 514, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
       color: #fff;
@@ -4091,7 +4091,7 @@ input[type="button"].btn-block {
   /* line 521, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
     color: #fff;
-    background-color: #4c3f00; }
+    background-color: #554262; }
   /* line 529, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > .disabled > a, .navbar-inverse .navbar-nav > .disabled > a:hover, .navbar-inverse .navbar-nav > .disabled > a:focus {
     color: #444;
@@ -4108,10 +4108,10 @@ input[type="button"].btn-block {
   /* line 550, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-collapse,
   .navbar-inverse .navbar-form {
-    border-color: #5b4c00; }
+    border-color: #5d496b; }
   /* line 558, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    background-color: #4c3f00;
+    background-color: #554262;
     color: #fff; }
   /* line 565, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > .dropdown > a:hover .caret {
@@ -4119,8 +4119,8 @@ input[type="button"].btn-block {
     border-bottom-color: #fff; }
   /* line 569, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > .dropdown > a .caret {
-    border-top-color: #FFF0AD;
-    border-bottom-color: #FFF0AD; }
+    border-top-color: #F9F7ED;
+    border-bottom-color: #F9F7ED; }
   /* line 577, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > .open > a .caret, .navbar-inverse .navbar-nav > .open > a:hover .caret, .navbar-inverse .navbar-nav > .open > a:focus .caret {
     border-top-color: #fff;
@@ -4128,10 +4128,10 @@ input[type="button"].btn-block {
   @media (max-width: 767px) {
     /* line 587, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
-      border-color: #4c3f00; }
+      border-color: #554262; }
     /* line 590, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
-      color: #FFF0AD; }
+      color: #F9F7ED; }
       /* line 592, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
       .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
         color: #fff;
@@ -4139,14 +4139,14 @@ input[type="button"].btn-block {
     /* line 599, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
       color: #fff;
-      background-color: #4c3f00; }
+      background-color: #554262; }
     /* line 607, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a, .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:focus {
       color: #444;
       background-color: transparent; } }
   /* line 618, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-link {
-    color: #FFF0AD; }
+    color: #F9F7ED; }
     /* line 620, /var/lib/gems/2.3.0/gems/bootstrap-sass-3.0.0.0/vendor/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-link:hover {
       color: #fff; }
@@ -6124,33 +6124,33 @@ td.visible-print {
   th.hidden-print,
   td.hidden-print {
     display: none !important; } }
-/* line 7, /home/antonio/Documents/ttc_website/source/stylesheets/all.css.scss */
+/* line 7, /home/georghinkel/ttc_website/source/stylesheets/all.css.scss */
 body {
   padding-top: 50px;
   font-size: 16px; }
 
-/* line 12, /home/antonio/Documents/ttc_website/source/stylesheets/all.css.scss */
+/* line 12, /home/georghinkel/ttc_website/source/stylesheets/all.css.scss */
 body:last-child {
   margin-bottom: 10%; }
 
-/* line 17, /home/antonio/Documents/ttc_website/source/stylesheets/all.css.scss */
+/* line 17, /home/georghinkel/ttc_website/source/stylesheets/all.css.scss */
 .navbar-right li a {
   padding: 8px;
   text-align: left; }
 
-/* line 21, /home/antonio/Documents/ttc_website/source/stylesheets/all.css.scss */
+/* line 21, /home/georghinkel/ttc_website/source/stylesheets/all.css.scss */
 .navbar img {
   height: 32px; }
 
-/* line 26, /home/antonio/Documents/ttc_website/source/stylesheets/all.css.scss */
+/* line 26, /home/georghinkel/ttc_website/source/stylesheets/all.css.scss */
 img#logo {
   padding-top: 10px;
   padding-right: 10px; }
 
-/* line 32, /home/antonio/Documents/ttc_website/source/stylesheets/all.css.scss */
+/* line 32, /home/georghinkel/ttc_website/source/stylesheets/all.css.scss */
 ul.people {
   list-style-type: none;
   padding-left: 5px; }
-  /* line 36, /home/antonio/Documents/ttc_website/source/stylesheets/all.css.scss */
+  /* line 36, /home/georghinkel/ttc_website/source/stylesheets/all.css.scss */
   ul.people li {
     margin-bottom: 0.75em; }
