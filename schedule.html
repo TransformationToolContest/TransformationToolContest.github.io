@@ -33,19 +33,19 @@
           <div class="collapse navbar-collapse">
             <ul id="navigation" class="nav navbar-nav">
               <li id="index"><a href="./">News</a></li>
-              <!--<li class="dropdown">
+              <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Your solutions <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                      <li><a href="solutions_qualityBased.html">Quality-based SS&HM</a></li>
-                      <li><a href="solutions_liveContest.html">Social Media (Live)</a></li>
+                      <li><a href="solutions_tt2bdd.html">Truth Tables to BDD</a></li>
+                      <!-- <li><a href="solutions_liveContest.html">Social Media (Live)</a></li> -->
                   </ul>
               </li>
-              <li id="programme"><a href="schedule.html">Programme</a></li>-->
+              <li id="programme"><a href="schedule.html">Programme</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Calls<b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                  <!-- <li><a href="cfc.html">Call for Cases</a></a></li> -->
-                  <li><a href="cfs.html">Call for Solutions</a></li>
+                  <li><a href="cfc.html">Call for Cases (Closed)</a></a></li>
+                  <li><a href="cfs.html">Call for Solutions (Closed)</a></li>
                 </ul>
               </li>
               <li id="aims_and_scope"><a href="aims_and_scope.html">Aims and scope</a></li>
@@ -53,7 +53,7 @@
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">History <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-				  <li><a href="/2018/">TTC 2018 (Toulouse)</a></li>
+				          <li><a href="/2018/">TTC 2018 (Toulouse)</a></li>
                   <li><a href="/2017/">TTC 2017 (Marburg)</a></li>
                   <li><a href="/2016/">TTC 2016 (Vienna)</a></li>
                   <li><a href="/2015/">TTC 2015 (L'Aquila)</a></li>
@@ -80,14 +80,14 @@
     <div class="col-md-8">
 
       <h3>Programme</h3>
-      <p>As TTC is a contest and not a workshop or conference, it has a rather unusual format. The morning of the contest will be used to score the solutions to the Quality-based Software Selection and Hardware-Mapping case. The afternoon of the contest will be used to score solutions to the live contest (a transformation problem that will be announced on <strong>Monday 25 June</strong>). The purpose of the morning and afternoon sessions is the same: to present your solution, score the solutions of others, and to determine an overall winner in each category.</p>
+      <p>As TTC is a contest and not a workshop or conference, it has a rather unusual format. The morning of the contest will be used to score the solutions to the Quality-based Software Selection and Hardware-Mapping case. The afternoon of the contest will be used to score solutions to the live contest (a transformation problem that will be announced on <strong>Monday 15 July</strong> online and in the <a href="https://staf2019.win.tue.nl/">ICGT/ICMT keynotes</a>). The purpose of the morning and afternoon sessions is the same: to present your solution, score the solutions of others, and to determine an overall winner in each category.</p>
       <br/>
 
-      <h4>Monday 25th June &mdash; Thursday 28th June</h4>
+      <h4>Monday 15th July &mdash; Thursday 18th July</h4>
       <p>All day -  the conference venue offers plenty of public work stations that can be used as a hackspace for you to work on your solutions to the live contest, or to talk about transformations with other contestants and TTC organisers.</p>
       <br/>
 
-      <h4>Friday 29th June</h4>
+      <h4>Friday 19th July</h4>
       <table class="table table-striped table-bordered table-hover">
         <thead>
           <tr>
@@ -109,32 +109,84 @@
               <strong>09.10</strong>
             </td>
             <td>
-              <strong>Introduction to the Quality-based Software Selection and Hardware Mapping case study</strong>
+              <strong>Introduction to the Truth Tables to Binary Decision Diagrams case study</strong>
               <br/>
-              <a href="TTC18_paper_1.pdf">PDF</a>
+              <a href="2019-tt2bdd.pdf">PDF</a>
             </td>
           </tr>
 
           
             
             <tr>
-              <td><strong>09.30</strong></td>
+              <td><strong>09.20</strong></td>
               <td>
-                  <strong>ACO - Samaneh Hoseindoost, Meysam Karimi, Shekoufeh Kolahdouz Rahimi and Bahman Zamani</strong><br/>
+                  <strong>ATL (non-reference) - Dennis Wagelaar, Théo Le Calvar and Frédéric Jouault</strong><br/>
                   <em>
-                    Opponents: Christoph Eickhoff, Simon-Lennert Raesch and Albert Zuendorf, Sebastian Götz, Johannes Mey, René Schöne and Uwe Assmann
+                    Opponents: Dennis Wagelaar, Théo Le Calvar and Frédéric Jouault, Albert Zuendorf
                   </em><br/><br/>
-                  <a href="TTC18_paper_3.pdf">PDF Description</a> |
+                  <a href="papers/TTC19_paper_7.pdf">PDF Description</a> |
                   
-                      <a href="http://is.ieis.tue.nl/staff/pvgorp/share/?page=MyVirtualDiskImageBanners#XP-TUe_TTC18-ACO.vdi">SHARE Demo</a>
+                      
+                          <strong>No SHARE or Docker demo</strong>
+                      
                   
                   <br/>
                   
-                    <a href="https://github.com/Ariyanic/TTC18">Source Code</a>
+                    <a href="https://github.com/dwagelaar/ttc2019-tt2bdd">Source Code</a>
                   
                   |
                   
-                    <a href="slides-qualityBased-aco.pdf">Slides</a>
+                    No Slides
+                  
+              </td>
+            </tr>
+          
+            
+            <tr>
+              <td><strong>09.30</strong></td>
+              <td>
+                  <strong>Fulib - Albert Zuendorf</strong><br/>
+                  <em>
+                    Opponents: Johannes Mey, René Schöne, Christopher Werner and Uwe Assmann, Akram Idani, German Vega and Michael Leuschel
+                  </em><br/><br/>
+                  <a href="papers/TTC19_paper_2.pdf">PDF Description</a> |
+                  
+                      
+                          <a href="https://hub.docker.com/r/zuendorf/fulib-solution-ttc2019">Docker Demo</a>
+                      
+                  
+                  <br/>
+                  
+                    <a href="https://github.com/azuendorf/FulibSolutionTTC2019">Source Code</a>
+                  
+                  |
+                  
+                    No Slides
+                  
+              </td>
+            </tr>
+          
+            
+            <tr>
+              <td><strong>09.40</strong></td>
+              <td>
+                  <strong>JastAdd - Johannes Mey, René Schöne, Christopher Werner and Uwe Assmann</strong><br/>
+                  <em>
+                    Opponents: Georg Hinkel, Christopher Werner, Rico Bergmann, Johannes Mey, René Schöne and Uwe Assmann
+                  </em><br/><br/>
+                  <a href="papers/TTC19_paper_4.pdf">PDF Description</a> |
+                  
+                      
+                          <strong>No SHARE or Docker demo</strong>
+                      
+                  
+                  <br/>
+                  
+                    <a href="https://git-st.inf.tu-dresden.de/ttc/bdd">Source Code</a>
+                  
+                  |
+                  
+                    No Slides
                   
               </td>
             </tr>
@@ -143,23 +195,48 @@
             <tr>
               <td><strong>09.50</strong></td>
               <td>
-                  <strong>EMFeR - Christoph Eickhoff, Simon-Lennert Raesch and Albert Zuendorf</strong><br/>
+                  <strong>MEEDUSE - Akram Idani, German Vega and Michael Leuschel</strong><br/>
                   <em>
-                    Opponents: Samaneh Hoseindoost, Meysam Karimi, Shekoufeh Kolahdouz Rahimi and Bahman Zamani, Sebastian Götz, Johannes Mey, René Schöne and Uwe Assmann
+                    Opponents: Christopher Werner, Rico Bergmann, Johannes Mey, René Schöne and Uwe Assmann, Artur Boronat
                   </em><br/><br/>
-                  <a href="TTC18_paper_2.pdf">PDF Description</a> |
+                  <a href="papers/TTC19_paper_5.pdf">PDF Description</a> |
                   
                       
-                          <a href="https://hub.docker.com/r/eicke123/emferttc18/">Docker Demo</a>
+                          <strong>No SHARE or Docker demo</strong>
                       
                   
                   <br/>
                   
-                    <a href="https://github.com/fujaba/EMFeRTTC18">Source Code</a>
+                    <a href="https://github.com/meeduse/Meeduse_TTC_2019">Source Code</a>
                   
                   |
                   
-                    <a href="slides-qualityBased-emfer.pdf">Slides</a>
+                    No Slides
+                  
+              </td>
+            </tr>
+          
+            
+            <tr>
+              <td><strong>10.00</strong></td>
+              <td>
+                  <strong>NMF - Georg Hinkel</strong><br/>
+                  <em>
+                    Opponents: Albert Zuendorf, Johannes Mey, René Schöne, Christopher Werner and Uwe Assmann
+                  </em><br/><br/>
+                  <a href="papers/TTC19_paper_1.pdf">PDF Description</a> |
+                  
+                      
+                          <strong>No SHARE or Docker demo</strong>
+                      
+                  
+                  <br/>
+                  
+                    <a href="https://github.com/georghinkel/ttc2019-tt2bdd">Source Code</a>
+                  
+                  |
+                  
+                    No Slides
                   
               </td>
             </tr>
@@ -168,11 +245,11 @@
             <tr>
               <td><strong>10.10</strong></td>
               <td>
-                  <strong>JastAdd + ILP - Sebastian Götz, Johannes Mey, René Schöne and Uwe Assmann</strong><br/>
+                  <strong>SCROLL - Christopher Werner, Rico Bergmann, Johannes Mey, René Schöne and Uwe Assmann</strong><br/>
                   <em>
-                    Opponents: Christoph Eickhoff, Simon-Lennert Raesch and Albert Zuendorf, Samaneh Hoseindoost, Meysam Karimi, Shekoufeh Kolahdouz Rahimi and Bahman Zamani
+                    Opponents: Artur Boronat, Dennis Wagelaar, Théo Le Calvar and Frédéric Jouault
                   </em><br/><br/>
-                  <a href="TTC18_paper_4.pdf">PDF Description</a> |
+                  <a href="papers/TTC19_paper_6.pdf">PDF Description</a> |
                   
                       
                           <strong>No SHARE or Docker demo</strong>
@@ -180,11 +257,36 @@
                   
                   <br/>
                   
-                    <a href="https://git-st.inf.tu-dresden.de/stgroup/ttc18">Source Code</a>
+                    <a href="https://git-st.inf.tu-dresden.de/ttc/bdd">Source Code</a>
                   
                   |
                   
-                    <a href="slides-qualityBased-ilp.pdf">Slides</a>
+                    No Slides
+                  
+              </td>
+            </tr>
+          
+            
+            <tr>
+              <td><strong>10.20</strong></td>
+              <td>
+                  <strong>YAMTL - Artur Boronat</strong><br/>
+                  <em>
+                    Opponents: Akram Idani, German Vega and Michael Leuschel, Georg Hinkel
+                  </em><br/><br/>
+                  <a href="papers/TTC19_paper_3.pdf">PDF Description</a> |
+                  
+                      
+                          <strong>No SHARE or Docker demo</strong>
+                      
+                  
+                  <br/>
+                  
+                    <a href="https://github.com/arturboronat/ttc2019-tt2bdd/tree/master/solutions/EMFSolutionYAMTL/">Source Code</a>
+                  
+                  |
+                  
+                    No Slides
                   
               </td>
             </tr>
@@ -204,36 +306,17 @@
                     <strong>11.00</strong>
                 </td>
                 <td>
-                    <strong>Introduction to the Live Contest</strong>
+                    <strong>Introduction to the Live Contest (TBA)</strong>
                     <br/>
-                    <a href="solutions_liveContest.html">Details</a>
-                </td>
+                                    </td>
             </tr>
 
             <tr>
                 <td>
-                    <strong>11.20</strong>
+                    <strong>11.20 - 12.30</strong>
                 </td>
                 <td>
-                    <strong>YAMTL - Artur Boronat</strong>
-                </td>
-            </tr>
-
-            <tr>
-                <td>
-                    <strong>11.40</strong>
-                </td>
-                <td>
-                    <strong>JastAdd - Rene Schoene</strong>
-                </td>
-            </tr>
-
-            <tr>
-                <td>
-                    <strong>12.00</strong>
-                </td>
-                <td>
-                    <strong>NMF - Georg Hinkel</strong>
+                    Solutions to the Live Contest (TBA)
                 </td>
             </tr>
 
@@ -247,20 +330,11 @@
             </tr>
 
             <tr>
-              <td>
-                <strong>14.00</strong>
-              </td>
-              <td>
-                  <strong>Hawk - Antonio Garcia-Dominguez</strong>
-              </td>
-            </tr>
-
-            <tr>
                 <td>
-                    <strong>14.20</strong>
+                    <strong>14.30</strong>
                 </td>
-                <td>
-                    <strong>Open discussion on solutions and TTC</strong>
+                <td colspan="2">
+                    <strong>Post-lunch coffee</strong>
                 </td>
             </tr>
 
@@ -269,22 +343,13 @@
                 <strong>15.00</strong>
               </td>
               <td>
-                <strong>Break (final evaluation + coffee)</strong>
+                  <strong>Awards and wrap up</strong>
               </td>
             </tr>
 
             <tr>
                 <td>
                     <strong>16.00</strong>
-                </td>
-                <td>
-                    <strong>Awards and Wrap Up</strong>
-                </td>
-            </tr>
-
-            <tr>
-                <td>
-                    <strong>16.30</strong>
                 </td>
                 <td>
                     <strong>Contest ends</strong>
