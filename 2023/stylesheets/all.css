@@ -5046,8 +5046,8 @@ tbody.collapse.in {
 
 /* line 527, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
 .navbar-inverse {
-  background-color: #e2552c;
-  border-color: #c1401a; }
+  background-color: #07aa0f;
+  border-color: #05790b; }
   /* line 531, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-brand {
     color: #dfe9dc; }
@@ -5068,7 +5068,7 @@ tbody.collapse.in {
   /* line 557, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
     color: white;
-    background-color: #c1401a; }
+    background-color: #05790b; }
   /* line 565, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > .disabled > a, .navbar-inverse .navbar-nav > .disabled > a:hover, .navbar-inverse .navbar-nav > .disabled > a:focus {
     color: #444444;
@@ -5076,14 +5076,14 @@ tbody.collapse.in {
   /* line 575, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
     color: white;
-    background-color: #c1401a; }
+    background-color: #05790b; }
   @media (max-width: 767px) {
     /* line 584, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
-      border-color: #c1401a; }
+      border-color: #05790b; }
     /* line 587, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
-      background-color: #c1401a; }
+      background-color: #05790b; }
     /* line 590, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
       color: #dfe9dc; }
@@ -5094,7 +5094,7 @@ tbody.collapse.in {
     /* line 601, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
       color: white;
-      background-color: #c1401a; }
+      background-color: #05790b; }
     /* line 609, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
     .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a, .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:focus {
       color: #444444;
@@ -5111,7 +5111,7 @@ tbody.collapse.in {
   /* line 631, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-collapse,
   .navbar-inverse .navbar-form {
-    border-color: #ce441c; }
+    border-color: #06880c; }
   /* line 635, /home/hinkel/.rvm/gems/ruby-2.7.7/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_navbar.scss */
   .navbar-inverse .navbar-link {
     color: #dfe9dc; }
