@@ -19,7 +19,7 @@ along a number of selected case studies. A deeper understanding of the
 relative merits of different tool features will help to further improve
 transformation tools and to indicate open problems.
 
-This contest is the fifteenth of its kind (after an AGTiVE 2007 session,
+This contest is the seventeenth of its kind (after an AGTiVE 2007 session,
 as GraBaTs 2008 and 2009 contests, and the TTC 2010, 2011, 2013\--2025
 contests). For the eighth time, the contest is co-located with several
 leading software engineering conferences as part of the [Software
@@ -61,6 +61,20 @@ developers will be asked to participate in a round of *open review* of
 other solutions. Therefore, we ask that all solution developers are
 available in the period immediately following the submission deadline to participate in these discussions.
 
+### Solutions to older cases
+
+Transformation tools have evolved and continue to evolve, but use cases
+of the past are still relevant. To foster a culture of
+community-accepted benchmarks, the TTC now also accepts submissions that
+solve older cases. References to prior cases can be found
+[here](cases.md). Please note that for solutions to these prior cases,
+we expect solution authors to compare their solutions with other
+existing solutions.
+
+Submissions of solutions to past cases will undergo the same peer-review
+process as solutions to the selected case from this year, but there will not be an open peer review. We will
+try to have the solution submission reviewed by of the original case authors or original solution authors.
+
 ### Publication Procedure
 
 For TTC 2026 there will be several publication opportunities:
@@ -82,3 +96,5 @@ For TTC 2026 there will be several publication opportunities:
   - [The Journal of Object Technology (JOT)](http://www.jot.fm/)
   - [The International Journal on Software Tools for Technology Transfer
     (STTT)](https://www.springer.com/journal/10009)
+
+For solutions to past cases, the journal publishing option is usually only available if there was no previous journal article about this case.
