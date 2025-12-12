@@ -1,0 +1,175 @@
+---
+title: Call for Cases
+menus:
+ - main
+---
+
+### What is this about?
+
+Transformations of structured data such as relational data, abstract
+syntax trees, graphs and high-level software models are at the heart of
+a wide range of applications, including but not limited to the
+development of low-code platforms. Their success heavily depends on the
+availability of powerful and easy-to-use tools. There is an increasingly
+large number of transformation tools that follow many different
+approaches, and this creates challenges for the community at large.
+Users and tool experts may have missed a recent development in the area,
+and they may not use the best tool for the job. Tool developers may wish
+to compare their tool against others, but risk the threat to validity
+that they may not be using the other tools to their full extent.
+
+The Transformation Tools Contest aims to help users, experts and tool
+developers to learn about the state-of-the-art through practical case
+studies. While some of these case studies may revisit well-known
+transformations, we are always looking for new case studies from the
+community that look at the bleeding edge in the field or challenge
+current tools in some way. If you have an interesting transformation
+problem in hand, or if you know about one, we would like to hear about
+it! We mention some specific areas that we consider relevant to TTC in
+our aims and scope page.
+
+Authors of cases are asked to facilitate a thorough comparison of
+state-of-the-art transformation tool features for solving a particular
+problem with the aim of submitting a journal article with qualifying
+solutions to one of the following journals after the workshop:
+
+- [The International Journal on Software and Systems Modeling
+  (SoSyM)](https://www.sosym.org/)
+- [The Journal of Object Technology (JOT)](http://www.jot.fm/)
+- [The International Journal on Software Tools for Technology Transfer
+  (STTT)](https://www.springer.com/journal/10009)
+
+More information about what to consider in a case can be found below.
+
+### Case submission
+
+By **Mon 7 Apr 2025**, please submit your case description in PDF format
+through [EasyChair](https://easychair.org/conferences/?conf=staf2025). A
+previous expression of interest is not a requirement to submit a case
+but we encourage authors of cases to contact the TTC organizers early.
+The case description should include a URL to a source code repository
+(e.g. GitHub, Bitbucket, GitLab) that contains a reference solution and
+an evaluation methodology, and a basic issue tracker that solution
+authors may use to ask questions about the case study. For the
+evaluation methodology, you are welcome to draw from past case studies.
+If you have an idea for a case study but do not know where to start or
+which previous case to base it on, feel free to start a discussion with
+us at `ttc25 AT easychair DOT org`.
+
+The case description should be in the ACM acmart LaTeX document class
+(see [here](http://www.sigplan.org/Resources/Author/) and
+[here](https://www.acm.org/publications/proceedings-template)), using
+the "sigconf" style and with the "review" option enabled, and not
+exceeding 10 pages (excluding references and appendices).
+
+The description should answer these questions:
+
+- What is the context of the case?
+- What is the subject to be modeled?
+- What is the purpose of the subject?
+- What are the variation points in the case?
+- Are there any specific research questions you would like to answer
+  through the participation of the community? What is the novel aspect
+  of the problem that has not been published earlier?
+- What are the criteria for evaluating the submitted solutions to the
+  case? These criteria should include pointers to the sections to be
+  included in the short paper describing the solution.
+- What should be the prizes for the case? Usually, there may be one or
+  more "Best X" (where X is a desired attribute), and then a "Best
+  Overall" solution with the best balance between all attributes.
+- Correctness test: which are the reference input/ouput documents and
+  how should they be used? Ideally, a case description includes a test
+  suite, as well as a test driver. The test driver can be an online web
+  service, or a Docker image on [Docker Hub](https://hub.docker.com/).
+  You can reuse frameworks from past case studies - feel free to ask us!
+- Which transformation tool-related features are important and how can
+  they be classified? (e.g., formal analysis of the transformation
+  program, rule debugging support, ...)
+- What transformation language-related challenges are important and how
+  can they be classified? (e.g., declarative bidirectionality,
+  declarative change propagation, declarative subgraph copying, cyclic
+  graph support, typing issues, ...)
+- How to measure the quality of submitted solutions, at the design
+  level? (e.g., measure the number of rules, the conciseness of rules,
+  ...)
+- How can the solutions be evaluated (ranked) systematically?
+- Building on the above, define threshold criteria for solutions to be
+  eligible in the journal article so that PC members can objectively
+  refer qualifying solutions.
+
+### Subsequent Phases
+
+**Phase 2**: Case evaluation. Members of the steering committee comment
+on cases according to the following survey:
+
+1.  Choose the journal (SoSyM, STTT or JOT) that you think fits best
+    this case and briefly justify your view. Is the case within the
+    scope of the journal? Is the problem statement interesting for the
+    audience of the selected journal? (normally up to 100 words)
+2.  In the questions below, please highlight strengths, potential flaws
+    and constructive ways to improve each aspect:
+    1.  Please comment on the *significance* of the problem statement.
+        Are the research questions addressing aspects that are novel and
+        relevant, paving the way either for exploring insights into a
+        new problem or for learning new knowledge about an existing
+        problem? Is the case building on state-of-the art literature in
+        that topic? If not, please suggest relevant references that
+        should be considered. (normally up to 200 words, excluding
+        references)
+    2.  Please comment on the appropriateness of the *evaluation
+        methodology*. Does the proposed methodology enable a valid,
+        reliable evaluation of solutions? Please consider the questions
+        below for further guidance. (normally up to 200 words)
+        - RE *reliability*, is the methodology likely to lead to
+          consistent or repeatable measurements?
+        - RE *validity*, is the methodology assessing relevant
+          characteristics of the problem statement (content validity)?
+          To which extent does it help study a trustworthy causal
+          relationship between research questions and measurements
+          (internal validity)? How well does it enable generalizable
+          findings (external validity)?
+
+This feedback is passed on to case authors to improve the case with the
+assistance of the organization committee.
+
+**Phase 3**: Call for solutions (next edition of TTC). All those who
+like to participate in the contest will be asked to choose one or more
+case studies, take their favorite transformation tool and submit their
+solutions. A separate call for solutions will be distributed **in the
+next TTC edition**, after the cases have been selected. A solution
+consists both of a technical short paper describing the solution and of
+accompanying software artifacts in a Git repository (usually a clone of
+the repository provided for the case). For a solution to be eligible for
+an award, it must not contain any member of either the Organization
+Committee or the Steering Committee. However, members of the
+Organization Committee and of the Steering Committee are welcome to
+contribute solutions, which will undergo the rest of the contest stages
+below together with the other solutions.
+
+**Phase 4**: Open peer review. The solution reviewing before the
+workshop will be done by other solution submitters. All solution
+submitters have to review three other solutions to the case that they
+have addressed. These reviews will not be anonymous, since these
+reviewers ideally will also be the opponents at the workshop. The
+purpose of the peer reviewing is that the participants get as much
+insight into the competitor's solutions as possible and also to raise
+potential problems. Case submitters should be available at this stage to
+resolve conflicting interpretations (if any) about the case description.
+
+**Phase 5**: Proceedings. Solution proponents improve the short paper
+with the feedback received during the open peer reviews. Such papers
+will be reviewed by programme committee members selecting which
+solutions are eligible for the journal article of each case, according
+to the corresponding eligilibility criteria. All papers, including cases
+and solutions, will appear in the proceedings.
+
+**Phase 6**: Contest. The solutions submitted for each case will be
+presented by their proponents. Case submitters should have evaluated
+independently the various presented solutions and should be present
+during the break to discuss the final awards to be given. Awards are
+only given for cases submitted to the last edition of the TTC. For more
+details (such as example cases and solutions from previous editions),
+please consult the other sections of the TTC website.
+
+**Phase 7**: Journal article. Case authors prepare journal articles with
+eligible solutions.

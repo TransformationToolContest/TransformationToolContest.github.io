@@ -1,0 +1,49 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse">
+      <ul id="navigation" class="nav navbar-nav">
+          <li><a href="/">News</a></li>
+{{ if .Site.Menus.main }}
+    {{ range .Site.Menus.main }}
+          <li>
+            <a href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
+              {{ .Name }}
+            </a>
+          </li>
+    {{ end }}
+{{ end }}
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">History <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/2023/">TTC 2023 (Leicester)</a></li>
+              <li><a href="/2021/">TTC 2021 (virtual)</a></li>
+              <li><a href="/2020/">TTC 2020 (virtual)</a></li>
+              <li><a href="/2019/">TTC 2019 (Eindhoven)</a></li>
+              <li><a href="/2018/">TTC 2018 (Toulouse)</a></li>
+              <li><a href="/2017/">TTC 2017 (Marburg)</a></li>
+              <li><a href="/2016/">TTC 2016 (Vienna)</a></li>
+              <li><a href="/2015/">TTC 2015 (L'Aquila)</a></li>
+              <li><a href="/2014/">TTC 2014 (York)</a></li>
+              <li><a name="">TTC 2013 (Budapest) - offline</a></li>
+              <li><a name="">TTC 2011 (Zurich) - offline</a></li>
+              <li><a name="">TTC 2010 (Malaga) - offline</a></li>
+              <li><a href="">GRaBaTs 2009 (Zurich) - offline</a></li>
+              <li><a href="">GRaBaTs 2008 (Leicester) - offline</a></li>
+              <li><a href="http://www.informatik.uni-marburg.de/~swt/agtive-contest/">AGTIVE 2007 (Kassel)</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="http://www.twitter.com/ttc_workshop"><img src="/images/twitter-32.png" title="Twitter: @ttc_workshop"></a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+</div>

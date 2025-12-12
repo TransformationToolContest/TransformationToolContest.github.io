@@ -1,0 +1,17 @@
+title = 'Transformation Tool Contest'
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[sitemap]
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+show_reading_time = true
+rss = true
+text_color = ""
+author = ""
+favicon = ""
+description = "Transformation Tool Contest"

@@ -1,0 +1,52 @@
+---
+title: Aims and Scope
+menus:
+- main
+---
+
+### Motivation
+
+Transformations of structured data such as relational data, abstract
+syntax trees and high-level graph-based models are cross-disciplinary at
+the heart of a wide range of applications. The success of transformation
+approaches heavily depends on the availability of expressive and
+efficient tools. Currently, a large variety of tools exist for different
+transformation approaches. However, for potential users, working in
+application domains where transformation techniques may be useful, it is
+difficult to select the right tool for their purpose. Moreover, even for
+most of the tool experts it is true that they know about one or two
+tools but little about others. Finally, the tool developers themselves
+can also be inspired by a more detailed understanding of related
+approaches.
+
+### Aims
+
+The aim of this event is to evaluate and compare the expressiveness, the
+usability and the performance of transformation tools for structured
+data along a number of selected challenging case studies. That is, we
+want to learn about the pros and cons of each tool considering different
+applications. A deeper understanding of the relative merits of different
+tool features will help to further improve the existing tools, to
+indicate open problems, and to integrate and standardize transformation
+tools.
+
+### Scope
+
+There is a wide range of application domains of transformation tools,
+including software engineering, business intelligence, logistics,
+healthcare and bioinformatics, as well as semantic web and social
+network analysis.
+
+Specific areas of transformations relevant for the TTC include (among
+others):
+
+- model synchronisation and merging,
+- program manipulation and translation,
+- interoperability and migration,
+- model execution and simulation,
+- verification of models and transformations,
+- knowledge extraction and semantic search
+
+If you are working in one of these area or a different domain where
+structured data transformations are relevant, please consider submitting
+a case.

@@ -1,0 +1,17 @@
+{{ with .Get "title" }}
+	<h4>{{ . }}</h4>
+{{ end }}
+<div class="pswp-gallery content">
+{{- range (.Page.Resources.Match (printf "%s*" (.Get "folder"))) }}
+{{ $thumbnail := .Resize "320x" }}
+	<a href="{{ .Permalink }}" data-pswp-width="{{ .Width }}" data-pswp-height="{{ .Height }}" >
+		<img src="{{ $thumbnail.Permalink }}" alt="" />
+	</a>
+{{ end }}
+</div>
+<script src="/plugins/photoswipe/photoswipe.umd.min.js"></script>
+<script src="/plugins/photoswipe/photoswipe-lightbox.umd.min.js"></script>
+<script type="text/javascript">
+var lightbox = new PhotoSwipeLightbox({ gallery: '.pswp-gallery', children: 'a', pswpModule: PhotoSwipe  });
+lightbox.init();
+</script>
