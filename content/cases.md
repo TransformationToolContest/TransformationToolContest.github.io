@@ -21,7 +21,7 @@ tables:
         name: "Evaluation Criteria"
         tip: "The evaluation criteria"
     rows:
-      - benchmark: '[FIXML to Java, C# and C++](2014/solutions_fixml.html)'
+      - benchmark: '[FIXML to Java, C# and C++](/2014/solutions_fixml.html)'
         year: '2014'
         domain: finance
         topics:
@@ -31,7 +31,7 @@ tables:
           - maintainability
           - correctness
           - conciseness
-      - benchmark: '[Train Benchmark](2015/solutions_train.html)'
+      - benchmark: '[Train Benchmark](/2015/solutions_train.html)'
         year: '2015'
         domain: railway
         topics:
@@ -44,7 +44,7 @@ tables:
           - initial runtime
           - change propagation time
           - scalability
-      - benchmark: '[Class Responsibility Assignment](2016/solutions_cra.html)'
+      - benchmark: '[Class Responsibility Assignment](/2016/solutions_cra.html)'
         year: '2016'
         domain: software engineering
         topics:
@@ -56,7 +56,7 @@ tables:
           - conciseness
           - quality of results
           - runtime
-      - benchmark: '[Dataflow](2016/livecontest.html)'
+      - benchmark: '[Dataflow](/2016/livecontest.html)'
         year: '2016'
         domain: software engineering
         topics:
@@ -70,7 +70,7 @@ tables:
           - initial runtime
           - change propagation time
           - scalability
-      - benchmark: '[Smart Grids](2017/solutions_smartGrid.html)'
+      - benchmark: '[Smart Grids](/2017/solutions_smartGrid.html)'
         year: '2017'
         domain: smart grids
         topics:
@@ -84,7 +84,7 @@ tables:
           - initial runtime
           - change propagation time
           - scalability
-      - benchmark: '[Families to Persons](2017/solutions_familiesToPersons.html)'
+      - benchmark: '[Families to Persons](/2017/solutions_familiesToPersons.html)'
         year: '2017'
         domain: example
         topics:
@@ -98,7 +98,7 @@ tables:
           - initial runtime
           - change propagation time
           - scalability
-      - benchmark: '[State Elimination](2017/solutions_stateElimination.html)'
+      - benchmark: '[State Elimination](/2017/solutions_stateElimination.html)'
         year: '2017'
         domain: software engineering
         topics:
@@ -110,7 +110,7 @@ tables:
           - conciseness
           - runtime
           - scalability
-      - benchmark: '[Transformation Reuse](2017/solutions_livecontest.html)'
+      - benchmark: '[Transformation Reuse](/2017/solutions_livecontest.html)'
         year: '2017'
         domain: software engineering
         topics:
@@ -122,7 +122,7 @@ tables:
           - conciseness
           - runtime
           - reuse
-      - benchmark: '[Quality-based Software Selection and Hardware-Mapping](2018/solutions_qualityBased.html)'
+      - benchmark: '[Quality-based Software Selection and Hardware-Mapping](/2018/solutions_qualityBased.html)'
         year: '2018'
         domain: systems engineering
         topics:
@@ -135,7 +135,7 @@ tables:
           - runtime
           - quality of results
           - scalability
-      - benchmark: '[Social Media](2018/solutions_liveContest.html)'
+      - benchmark: '[Social Media](/2018/solutions_liveContest.html)'
         year: '2018'
         domain: social media
         topics:
@@ -147,7 +147,7 @@ tables:
           - conciseness
           - initial runtime
           - change propagation time
-      - benchmark: '[Truth tables to BDD](2019/solutions_tt2bdd.html)'
+      - benchmark: '[Truth tables to BDD](/2019/solutions_tt2bdd.html)'
         year: '2019'
         domain: example
         topics:
@@ -157,7 +157,7 @@ tables:
           - maintainability
           - correctness
           - conciseness
-      - benchmark: '[BibtexXML to Docbook](2019/solutions_liveContest.html)'
+      - benchmark: '[BibtexXML to Docbook](/2019/solutions_liveContest.html)'
         year: '2019'
         domain: example
         topics:
@@ -167,7 +167,7 @@ tables:
           - maintainability
           - correctness
           - conciseness
-      - benchmark: '[Roundtrip](2020/solutions_roundtrip.html)'
+      - benchmark: '[Roundtrip](/2020/solutions_roundtrip.html)'
         year: '2020'
         domain: versioning
         topics:
@@ -178,7 +178,7 @@ tables:
           - correctness
           - conciseness
           - reuse
-      - benchmark: '[Incremental Workflows](2021/solutions_iworkflows.html)'
+      - benchmark: '[Incremental Workflows](/2021/solutions_iworkflows.html)'
         year: '2021'
         domain: lab automation
         topics:
@@ -191,7 +191,7 @@ tables:
           - initial runtime
           - change propagation time
           - scalability
-      - benchmark: '[OCL2PSQL](2021/solutions_ocl2psql.html)'
+      - benchmark: '[OCL2PSQL](/2021/solutions_ocl2psql.html)'
         year: '2021'
         domain: database queries
         topics:
@@ -203,7 +203,7 @@ tables:
           - conciseness
           - runtime
           - quality of results
-      - benchmark: '[Containers to MiniYAML](2023/solutions_containers.html)'
+      - benchmark: '[Containers to MiniYAML](/2023/solutions_containers.html)'
         year: '2023'
         domain: deployment
         topics:
@@ -217,7 +217,7 @@ tables:
           - scalability
           - initial runtime
           - change propagation time
-      - benchmark: '[KMEHR to FHIR](2023/solutions_kmehr.html)'
+      - benchmark: '[KMEHR to FHIR](/2023/solutions_kmehr.html)'
         year: '2023'
         domain: healthcare
         topics:
@@ -229,7 +229,7 @@ tables:
           - conciseness
           - runtime
           - scalability
-      - benchmark: '[Incremental Class into Relational](2023/solutions_class2rel.html)'
+      - benchmark: '[Incremental Class into Relational](/2023/solutions_class2rel.html)'
         year: '2023'
         domain: example
         topics:
