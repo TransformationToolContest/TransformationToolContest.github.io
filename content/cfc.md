@@ -43,8 +43,8 @@ More information about what to consider in a case can be found below.
 
 ### Case submission
 
-By **Mon 7 Apr 2025**, please submit your case description in PDF format
-through [EasyChair](https://easychair.org/conferences/?conf=staf2025). A
+By **29th January 2026**, please submit your case description in PDF format
+through [EasyChair](https://easychair.org/conferences/?conf=staf2026). A
 previous expression of interest is not a requirement to submit a case
 but we encourage authors of cases to contact the TTC organizers early.
 The case description should include a URL to a source code repository
@@ -54,7 +54,7 @@ authors may use to ask questions about the case study. For the
 evaluation methodology, you are welcome to draw from past case studies.
 If you have an idea for a case study but do not know where to start or
 which previous case to base it on, feel free to start a discussion with
-us at `ttc25 AT easychair DOT org`.
+us.
 
 The case description should be in the ACM acmart LaTeX document class
 (see [here](http://www.sigplan.org/Resources/Author/) and
@@ -135,8 +135,7 @@ assistance of the organization committee.
 **Phase 3**: Call for solutions (next edition of TTC). All those who
 like to participate in the contest will be asked to choose one or more
 case studies, take their favorite transformation tool and submit their
-solutions. A separate call for solutions will be distributed **in the
-next TTC edition**, after the cases have been selected. A solution
+solutions. A separate call for solutions will be distributed after the cases have been selected. A solution
 consists both of a technical short paper describing the solution and of
 accompanying software artifacts in a Git repository (usually a clone of
 the repository provided for the case). For a solution to be eligible for
@@ -167,7 +166,7 @@ and solutions, will appear in the proceedings.
 presented by their proponents. Case submitters should have evaluated
 independently the various presented solutions and should be present
 during the break to discuss the final awards to be given. Awards are
-only given for cases submitted to the last edition of the TTC. For more
+only given for cases submitted to the current edition of the TTC. For more
 details (such as example cases and solutions from previous editions),
 please consult the other sections of the TTC website.
 
