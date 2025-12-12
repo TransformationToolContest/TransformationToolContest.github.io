@@ -34,8 +34,7 @@ in the TTC again.
 The following case studies have been selected:
 
 - [Program abstraction by transformation: Abstraction of Visual Basic to
-  UML](/2023/TTC_2023_paper_1.pdf){target="_blank"}
-  ([Resources](https://doi.org/10.5281/zenodo.7801435)).
+  UML](/2023/TTC_2023_paper_1.pdf) ([Resources](https://doi.org/10.5281/zenodo.7801435)).
 
 The case description, supporting resources, and discussion between
 solution developers are hosted at the source code repositories linked to

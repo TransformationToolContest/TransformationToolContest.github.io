@@ -43,6 +43,6 @@ menus:
 - [Sandra Greiner](https://sandragreiner.github.io/)\
   *University of Southern Denmark, Denmark*
 - [Georg Hinkel](https://www.hs-rm.de/de/hochschule/personen/hinkel-georg)\
-  *RheinMain University of Applied Sciences, Germany*
+  *RheinMain University of Applied Sciences and Arts, Germany*
 - [Théo Le Calvar](https://theo.lecalvar.fr/)\
   *IMT Atlantique, Nantes, France*
