@@ -4,9 +4,9 @@ menus:
  - main
 ---
 
-The 2025 Transformation Tool Contest (TTC) seeks your own spins of four
+The 2026 Transformation Tool Contest (TTC) seeks your own spins of four
 interesting model transformation problems. The deadline for solution
-descriptions is **TBD**, immediately followed by a round of
+descriptions is **March 27**, immediately followed by a round of
 open peer reviewing. As in previous editions, solution descriptions will
 be published in a post-proceedings volume, and lead to continued
 collaboration for producing a per-case journal article.
@@ -50,7 +50,7 @@ explored at the [TTC 2021
 website](/2021/).
 
 Solutions should be submitted via
-[Easychair](https://easychair.org/conferences/?conf=staf2026) by **TBD**. Before the same deadline, each case study solution (tool, project files, documentation) should be made available for review and
+[Easychair](https://easychair.org/conferences/?conf=staf2026) by **March 27**. Before the same deadline, each case study solution (tool, project files, documentation) should be made available for review and
 demonstration via a public version control repository (e.g. on Github or
 Bitbucket). [Docker Hub](https://hub.docker.com/) images would be highly
 appreciated as well.
