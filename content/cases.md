@@ -241,6 +241,18 @@ tables:
           - conciseness
           - initial runtime
           - change propagation time
+       - benchmark: '[Universal Variability to Dot](https://github.com/TransformationToolContest/ttc2025-live)'
+         year: 2025
+         domain: variability
+         topics:
+           - parsing
+           - incremental change propagation
+         evaluation:
+           - understandability
+           - maintainability
+           - correctness
+           - initial runtime
+           - change propagation time
 
 ---
 
