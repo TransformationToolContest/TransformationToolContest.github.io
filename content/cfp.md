@@ -6,7 +6,7 @@ menus:
 
 The 2026 Transformation Tool Contest (TTC) seeks your own spins of four
 interesting model transformation problems. The deadline for solution
-descriptions is **March 27**, immediately followed by a round of
+descriptions is **April 14**, immediately followed by a round of
 open peer reviewing. As in previous editions, solution descriptions will
 be published in a post-proceedings volume, and lead to continued
 collaboration for producing a per-case journal article.
@@ -50,7 +50,7 @@ explored at the [TTC 2021
 website](/2021/).
 
 Solutions should be submitted via
-[Easychair](https://easychair.org/conferences/?conf=staf2026) by **March 27**. Before the same deadline, each case study solution (tool, project files, documentation) should be made available for review and
+[Easychair](https://easychair.org/conferences/?conf=staf2026) by **April 14**. Before the same deadline, each case study solution (tool, project files, documentation) should be made available for review and
 demonstration via a public version control repository (e.g. on Github or
 Bitbucket). [Docker Hub](https://hub.docker.com/) images would be highly
 appreciated as well. The paper describing the solution should be in the CEURart LaTeX document class
@@ -85,7 +85,7 @@ For TTC 2026 there will be several publication opportunities:
   solution papers will be reviewed by the TTC program committee. A
   selection of revised solution papers together with the case
   descriptions will be published in the contest proceedings.
-- Most cases were reviewed by a steering committee, judging the suitable
+- Cases were reviewed by a steering committee, judging the suitable
   publication venues, significance of the problem statement, and
   appropriateness of the evaluation methodology. This feedback was
   passed on to case authors to allow the case to be improved, with the
