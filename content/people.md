@@ -6,20 +6,20 @@ menus:
 
 ### Programme Committee
 
-- Anthony Anjorin\
-  *Zühlke Engineering GmbH, Germany*
 - Artur Boronat\
   *University of Leicester, United Kingdom*
 - Thomas Buchmann\
   *Hof University of Applied Sciences, Germany*
 - Mickael Clavreul\
   *ESEO, LUNAM University, France*
+- Máté	Földiák\
+  *Linköping University*
 - Kevin Lano\
   *King\'s College London, United Kingdom*
+- Alexander	Lüpges\
+  *RWTH Aachen, Germany*
 - Shekoufeh Rahimi\
   *University of Roehampton, United Kingdom*
-- Alireza Rouhi\
-  *Azarbaijan Shahid Madani University*
 
 ### Steering Committee
 
