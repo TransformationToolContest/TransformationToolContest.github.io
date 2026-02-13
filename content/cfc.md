@@ -56,10 +56,8 @@ If you have an idea for a case study but do not know where to start or
 which previous case to base it on, feel free to start a discussion with
 us.
 
-The case description should be in the ACM acmart LaTeX document class
-(see [here](http://www.sigplan.org/Resources/Author/) and
-[here](https://www.acm.org/publications/proceedings-template)), using
-the "sigconf" style and with the "review" option enabled, and not
+The case description should be in the CEURart LaTeX document class
+(see [here](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART)) in the single-column workshop format and not
 exceeding 10 pages (excluding references and appendices).
 
 The description should answer these questions:

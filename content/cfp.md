@@ -53,7 +53,9 @@ Solutions should be submitted via
 [Easychair](https://easychair.org/conferences/?conf=staf2026) by **March 27**. Before the same deadline, each case study solution (tool, project files, documentation) should be made available for review and
 demonstration via a public version control repository (e.g. on Github or
 Bitbucket). [Docker Hub](https://hub.docker.com/) images would be highly
-appreciated as well.
+appreciated as well. The paper describing the solution should be in the CEURart LaTeX document class
+(see [here](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART)) in the single-column workshop format and not
+exceeding 10 pages (excluding references and appendices).
 
 Immediately after the submission deadline, please note solution
 developers will be asked to participate in a round of *open review* of
