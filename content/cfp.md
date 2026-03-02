@@ -35,7 +35,7 @@ The following case studies have been selected:
 
 - [Program abstraction by transformation: Abstraction of Visual Basic to
   UML](/2023/TTC_2023_paper_1.pdf) ([Resources](https://doi.org/10.5281/zenodo.7801435)).
-- The Families to Persons Case --- Revisited (link to come) ([Resources](https://github.com/eMoflon/benchmarx/tree/main/examples/familiestopersons))
+- [The Families to Persons Case --- Revisited](/2026/STAF_2026_paper_35-3.pdf) ([Resources](https://github.com/eMoflon/benchmarx/tree/main/examples/familiestopersons-ttc2026))
 - [Any of the older cases (see below)](/cases/)
 
 The case description, supporting resources, and discussion between
